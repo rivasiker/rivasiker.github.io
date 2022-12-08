@@ -48,26 +48,12 @@
       description:
         - Data Science in Bioinformatics (Fall of 2020 and 2021)
         - Statistical and Machine Learning in Bioinformatics (Spring of 2020, 2021 and 2022)
-    
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
 
 - title: Attended Meetings
   type: time_table
   contents:
     - title: SMBE Everywhere GS4 (talk)
-      year: 2021
+      year: 2022
       institution: Virtual
     - title: The Biology of Genomes (talk)
       year: 2022
@@ -94,11 +80,8 @@
         - Species tree
         - Selection
         - Population genomics
-    - title: Modelling
+        - Incomplete lineage sorting
+        - Admixture
+    - title: Modeling
       items:
         - Hidden Markov models
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
