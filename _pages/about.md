@@ -13,7 +13,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Aarhus University, Denmark
+<h1 style="font-size:20px">Aarhus University, Denmark</h1>
 
 Hello there! I'm a PhD student primarily researching on primate phylogenomics. My interests include:
 * Speciation processes, incomplete lineage sorting, admixture and introgression.
@@ -22,4 +22,4 @@ Hello there! I'm a PhD student primarily researching on primate phylogenomics. M
 * Coalescent theory and phase-type distributions. 
 * Data visualization. 
 
-You can check out my [latest publications](/publications/). Feel free to connect with me over [email](ikerrivas96@gmail.com), [GitHub](https://github.com/rivasiker/), [Twitter](https://twitter.com/irg_bio) or [Mastodon](https://ecoevo.social/@rivasiker). 
+You can check out my latest publications [here](/publications/), and some of the software I have developed [here](/repositories/). Feel free to connect with me over [email](ikerrivas96@gmail.com), [GitHub](https://github.com/rivasiker/), [Twitter](https://twitter.com/irg_bio) or [Mastodon](https://ecoevo.social/@rivasiker). 

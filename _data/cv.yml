@@ -85,3 +85,7 @@
     - title: Modeling
       items:
         - Hidden Markov models
+    - title: Data Visualization
+      items:
+        - ggplot2
+        - TidyTuesday
