@@ -1,3 +1,7 @@
 "Cell":
   url: https://www.cell.com/
   color: "#00369f"
+
+"JOSS":
+  url: https://joss.theoj.org/
+  color: "#2f73e0"
