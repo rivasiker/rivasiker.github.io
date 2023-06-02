@@ -5,3 +5,7 @@
 "JOSS":
   url: https://joss.theoj.org/
   color: "#2f73e0"
+
+"Science":
+  url: https://www.science.org/journal/science
+  color: "#C72326"

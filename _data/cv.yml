@@ -52,6 +52,9 @@
 - title: Attended Meetings
   type: time_table
   contents:
+    - title: Phase-type distributions with a view to population genetics (talk)
+      year: 2023
+      institution: Copenhagen, Denmark
     - title: Probabilistic Modelling in Genomics (talk)
       year: 2023
       institution: Cold Spring Harbor Laboratory, NY
