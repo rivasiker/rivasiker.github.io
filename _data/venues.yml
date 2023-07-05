@@ -9,3 +9,7 @@
 "Science":
   url: https://www.science.org/journal/science
   color: "#C72326"
+
+"bioRxiv":
+  url: https://www.biorxiv.org
+  color: "#bd2736"
