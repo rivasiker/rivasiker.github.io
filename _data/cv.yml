@@ -52,6 +52,9 @@
 - title: Attended Meetings
   type: time_table
   contents:
+    - title: SMBE Meeting (symposium organizer and poster)
+      year: 2023
+      institution: Ferrara, Italy
     - title: Phase-type distributions with a view to population genetics (talk)
       year: 2023
       institution: Copenhagen, Denmark
