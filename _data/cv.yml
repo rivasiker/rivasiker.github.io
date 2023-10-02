@@ -9,9 +9,14 @@
 - title: Education
   type: time_table
   contents:
+    - title: Postdoc
+      institution: Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
+      year: 2023 - present
+      description:
+        - Primate evolution
     - title: PhD
       institution: Aarhus University, Aarhus, Denmark
-      year: 2020 - present
+      year: 2020 - 2023
       description:
         - Genome-wide analyses of primates, birds and marsupials
         - Phylogenomic reconstruction, selection and recombination

@@ -13,9 +13,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h1 style="font-size:20px">Aarhus University, Denmark</h1>
+<h1 style="font-size:20px">Max-Planck Institute for Evolutionary Antropology</h1>
+<h1 style="font-size:20px">Leipzig (Germany)</h1>
 
-Hello there! I'm a PhD student primarily researching on primate phylogenomics. My interests include:
+Hello there! I'm a bioinformatician primarily researching on primate phylogenomics. My interests include:
 * Speciation processes, incomplete lineage sorting, admixture and introgression.
 * Primate, bird and marsupial phylogenomics. 
 * Hidden Markov models (e.g. SMC).
