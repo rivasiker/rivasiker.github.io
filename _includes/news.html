@@ -1,6 +1,6 @@
           
           <div class="news">
-            <h2>news</h2>
+            <h2>latest news</h2>
             {% if site.news != blank -%} 
             {%- assign news_size = site.news | size -%}
             <div class="table-responsive" {% if site.news_scrollable and news_size > 3 %}style="max-height: 10vw"{% endif %}>
@@ -29,7 +29,9 @@
               {%- endfor %} 
               </table>
             </div>
+          You can see a full list of announcements <a href="/news/">here</a>.
           {%- else -%} 
             <p>No news so far...</p>
           {%- endif %} 
           </div>
+
