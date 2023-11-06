@@ -3,17 +3,17 @@ layout: page
 permalink: /contact/
 title: contact
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 **Iker Rivas-González**<br />
-Max-Planck Institute for Evolutionary Anthropology<br />
+Max Planck Institute for Evolutionary Anthropology<br />
 Department of Primate Behavior and Evolution<br />
 Deutscher Platz 6<br />
 04103 Leipzig<br />
 Germany<br />
 
-Email: <irg@birc.au.dk> or <ikerrivas96@gmail.com><br />
+Email: <iker_rivas_gonzalez@eva.mpg.de> or <ikerrivas96@gmail.com><br />
 GitHub: [rivasiker](https://github.com/rivasiker/)<br />
 Twitter: [irg_bio](https://twitter.com/irg_bio)<br />
 Mastodon: [rivasiker@ecoevo.social](https://ecoevo.social/@rivasiker)
