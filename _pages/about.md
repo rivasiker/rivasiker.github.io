@@ -22,4 +22,4 @@ Hello there! I'm a bioinformatician primarily researching on primate phylogenomi
 * Coalescent theory and phase-type distributions. 
 * Data visualization. 
 
-You can check out my latest publications [here](/publications/), and some of the software I have developed [here](/repositories/). Feel free to connect with me over [email](iker_rivas_gonzalez@eva.mpg.de), [GitHub](https://github.com/rivasiker/), [Twitter](https://twitter.com/irg_bio) or [Mastodon](https://ecoevo.social/@rivasiker). 
+You can check out my latest publications [here](/publications/), and some of the software I have developed [here](/repositories/). Feel free to connect with me over <a href = "mailto: iker_rivas_gonzalez@eva.mpg.de">email</a>, [GitHub](https://github.com/rivasiker/), [Twitter](https://twitter.com/irg_bio) or [Mastodon](https://ecoevo.social/@rivasiker). 
