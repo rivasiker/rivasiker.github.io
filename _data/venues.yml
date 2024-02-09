@@ -13,3 +13,7 @@
 "bioRxiv":
   url: https://www.biorxiv.org
   color: "#bd2736"
+
+"PLoS Genet":
+  url: https://journals.plos.org/plosgenetics/
+  color: "#037165"
