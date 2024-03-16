@@ -17,3 +17,7 @@
 "PLoS Genet":
   url: https://journals.plos.org/plosgenetics/
   color: "#037165"
+
+"TPB":
+  url: https://www.sciencedirect.com/journal/theoretical-population-biology
+  color: "#263091"
