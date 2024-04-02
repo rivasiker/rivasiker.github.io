@@ -21,3 +21,11 @@
 "TPB":
   url: https://www.sciencedirect.com/journal/theoretical-population-biology
   color: "#263091"
+
+"Nature":
+  url: https://www.nature.com
+  color: "#000000"
+
+"PNAS":
+  url: https://www.pnas.org
+  color: "#0075bc"
