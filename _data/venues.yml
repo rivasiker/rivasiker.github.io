@@ -29,3 +29,7 @@
 "PNAS":
   url: https://www.pnas.org
   color: "#0075bc"
+
+"EMPH":
+  url: https://academic.oup.com/emph
+  color: "#2db361"
