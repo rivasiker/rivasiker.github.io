@@ -58,11 +58,11 @@
   type: time_table
   contents:
     - title: Probabilistic Modelling in Genomics (award for best talk)
-        year: 2024
-        institution: Vienna, Austria
+      year: 2024
+      institution: Vienna, Austria
     - title: EPIC-DK (talk)
-        year: 2023
-        institution: Copenhagen, Denmark
+      year: 2023
+      institution: Copenhagen, Denmark
     - title: SMBE Meeting (symposium organizer and poster)
       year: 2023
       institution: Ferrara, Italy
