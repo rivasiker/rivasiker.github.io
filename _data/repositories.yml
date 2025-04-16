@@ -1,14 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
-
-repo_description_lines_max: 2
+  - rivasiker
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - rivasiker/ggHoriPlot
+  - rivasiker/PhaseTypeR
+  - rivasiker/trails
+  - rivasiker/autocoalhmm
+  
