@@ -33,3 +33,11 @@
 "EMPH":
   url: https://academic.oup.com/emph
   color: "#2db361"
+
+"Sci Data":
+  url: https://www.nature.com/sdata/
+  color: "#000000"
+
+"Trends Genet":
+  url: https://www.cell.com/trends/genetics/home
+  color: "#00369f"
